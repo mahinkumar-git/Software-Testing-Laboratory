@@ -16,7 +16,6 @@ Cases
 ### Program:
 
 ### i.)do…while: 
-
 ```python
 def display():
      start=input("Enter a positive value for START: ")
@@ -51,8 +50,9 @@ else:
 
 ```
 
-### iii.) switch 
 
+
+### iii.) switch 
 ```python
 def switch():
     switcher={
@@ -68,8 +68,9 @@ switch()
 
 ```
 
-### iv.) if else
 
+
+### iv.) if else
 ```python
 def compare():
   a=input("Enter a value for A: ")
@@ -88,8 +89,9 @@ def compare():
 compare()
 ```
 
-### v.) for
 
+
+### v.) for
 ```python
 def iterate():
     string=input("Enter a string: ") for
@@ -99,33 +101,29 @@ iterate()
 ```
 
 
-
-
 ### Output:
-
 ### i.)do…while: 
 ![Screenshot From 2024-10-04 10-17-37](https://github.com/user-attachments/assets/0f7064f3-8c20-45f5-b655-43cf35214fd9)
+
 
 
 ### ii.) while..do:
 ![Screenshot From 2024-10-04 10-20-54](https://github.com/user-attachments/assets/8234bea2-16ec-49d7-b64b-58537d439082)
 
 
-### iii.) switch 
 
+### iii.) switch 
 ![Screenshot From 2024-10-04 10-24-52](https://github.com/user-attachments/assets/67ea59e8-4a36-4fa8-b995-db187794ba0e)
 
 
 
 ### iv.) if else
-
 ![Screenshot From 2024-10-04 10-28-30](https://github.com/user-attachments/assets/54a91e87-4c07-4f5e-8a51-8a5efff29252)
 
 
 
 ### v.) for 
 ![Screenshot From 2024-10-04 10-33-44](https://github.com/user-attachments/assets/9fdf49ca-1a49-47e5-8755-fbc444da940f)
-
 
 
 

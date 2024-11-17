@@ -12,7 +12,7 @@ Write a Python program to check whether the string is Palindrome and generate te
 6. Else, return that it is not a palindrome. 
 7. Stop the program.
 ### Program:
-```
+```python3
 def Palindrome(string): 
     for i in range(0, int(len(string)/2)): 
         if string[i] != string[len(string)-i-1]: 
